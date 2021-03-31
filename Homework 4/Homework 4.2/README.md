@@ -2,4 +2,4 @@
 
 ![demo](gif.gif)
 
-![Screenshot](Crank_Connecting_Rod_Mechanism_jpg.jpg)
+![Screenshot](Crank_Connecting_Rod_Mechanism_jpg.png)

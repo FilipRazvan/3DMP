@@ -1,7 +1,7 @@
 # Homework 4
 
 ## 4.1 -> Design the Scotch Yoke Mechanism taking the course videos as reference (especially the slider crank mechanism; in this one can see why it’s important to use Fusion Rule Number 1)
-   4.2 -> Choose ONE mechanism from the list and design it in Fusion.
+## 4.2 -> Choose ONE mechanism from the list and design it in Fusion.
    
 ### 	Requirements for 2 and 3:
 	Divide the mechanism into components
