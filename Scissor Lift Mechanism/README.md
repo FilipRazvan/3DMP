@@ -1,3 +1,7 @@
+![demo](GIF.gif)
+![Screenshot](jpg.png)
+![Screenshot](jpg2.png)
+![Screenshot](jpg3.png)
 # Name: Scissor Lift Mechanism
 Author: intentional3D (http://www.intentional3d.com) /// (https://www.thingiverse.com/thing:925556)
 ## Scissor lifts are a type of mechanism that allows for vertical displacement of some load, through the use of linked, folding supports, in a crisscross “X” pattern, referred to as a pantograph (or, simply, a scissor mechanism). Scissor lifts are widely used in industrial applications, and also form a staple design element in competitive robotics.
