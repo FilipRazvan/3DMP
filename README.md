@@ -10,4 +10,4 @@ This course contains information about using Fusion360 and PrusaSlicer for creat
   - [x]	Homework 2 - DONE -> Download a model from Thingiverse and modify it + Design 4 models
   - [x]	Homework 3 - DONE -> Chess Table + Pieces
   - [x]	Homework 4 - DONE -> Create and Design 2 Mechanisms
-  - [x]	Final Project - Scissor Lift Mechanism - DONE :sunglasses:
+  - [x]	Final Project - DONE - Scissor Lift Mechanism :sunglasses:
