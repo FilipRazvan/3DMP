@@ -10,6 +10,6 @@ Main Components:
 
 For Fusion360 app you will need to run the Motion Study.
 
-#### Existing Files: .f3d , .stl , .jpeg.
+#### Existing Files: .f3d , .stl , .png , .gif
 
 Software used for develop & render: Fusion 360.
