@@ -7,6 +7,9 @@ Main Components:
 2) Lower&Upper Base
 3) Middle Base
 4) Screw
+
 For Fusion360 app you will need to run the Motion Study.
+
 #### Existing Files: .f3d , .stl , .jpeg.
+
 Software used for develop & render: Fusion 360.
