@@ -21,7 +21,7 @@ Final Project: Minor edits + appearance + render
 
 For Fusion360 app you will need to run the Motion Study.
 
-#### Existing Files: .f3d , .stl , .png , .gif
+#### Existing Files: .f3d , .stl , .png , .gif , .mp4
 
 Software used for develop & render: Fusion 360.
 
