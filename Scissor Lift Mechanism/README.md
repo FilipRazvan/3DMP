@@ -1,5 +1,6 @@
 # Name: Scissor Lift Mechanism
 Oficial Author: intentional3D (http://www.intentional3d.com) /// (https://www.thingiverse.com/thing:925556)
+
 Remake Author: Filip Razvan Adrian
 ## Scissor lifts are a type of mechanism that allows for vertical displacement of some load, through the use of linked, folding supports, in a crisscross “X” pattern, referred to as a pantograph (or, simply, a scissor mechanism). Scissor lifts are widely used in industrial applications, and also form a staple design element in competitive robotics.
 ![demo](GIF.gif)
@@ -11,8 +12,11 @@ Main Components:
 4) Screw
 
 Checkpoint 1: Create Base+arms
+
 Checkpoint 2: Mirror base+arms and assembly
+
 Checkpoint 3: Add Joints + motion study
+
 Final Project: Minor edits + appearance + render
 
 For Fusion360 app you will need to run the Motion Study.
